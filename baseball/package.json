@@ -5,7 +5,12 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "faker": "latest",
+    "lodash": "latest",
+    "prop-types": "latest",
+    "semantic-ui-css": "latest",
+    "semantic-ui-react": "^0.84.0"
   },
   "scripts": {
     "start": "react-scripts start",
